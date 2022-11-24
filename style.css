@@ -1,0 +1,13 @@
+#contact iframe
+{
+    width: 100%;
+}
+.movie_head{
+    font-size:20px;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom:15px;
+}
+.movie_head i{
+    float: right;
+}
